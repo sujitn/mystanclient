@@ -1,2 +1,2 @@
 # mystanclient
-C# .NET and .NET Core client for NATS Streaming
+NATS Streaming extensions for mynatsclient
